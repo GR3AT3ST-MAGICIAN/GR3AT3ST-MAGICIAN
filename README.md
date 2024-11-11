@@ -17,8 +17,8 @@
 <p align="left">
   <ul>
     ${\textsf{\color{#f8d78b}　　First 2 Links 4 info　,　}}$ <br/>
-    ${\textsf{\color{#f8d78b} Third link is a Pixel Hoard　.　}}$ <br/>
-    ${\textsf{\color{#f8d78b} This is an Alt Acc.　Check Tagged　!}}$ <br/> </li>
+    ${\textsf{\color{#f8d78b} Third link is my atabook　.　}}$ <br/>
+    ${\textsf{\color{#f8d78b} Matching pfp.　Check Tagged　!}}$ <br/> </li>
     <sub><sup> ${\textsf{\color{#6279bd} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
