@@ -19,7 +19,6 @@
   <ul>
     ${\textsf{\color{#ff7b7b}　　First 2 Links 4 info　,　}}$ <br/>
     ${\textsf{\color{#ff7b7b} Third link is my atabook　.　}}$ <br/>
-    ${\textsf{\color{#ff7b7b} Matching pfp.　Check Tagged　!}}$ <br/> </li>
     <sub><sup> ${\textsf{\color{#ffcdcd} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
