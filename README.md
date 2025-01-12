@@ -1,24 +1,25 @@
-### <p align="center"> <img src="https://64.media.tumblr.com/56fd5945858f7b4f3a86ece81767e765/44fc57363d9bd3e4-41/s640x960/e0dded6ab7b34d0f9b03606b209f65e1abbca741.gifv" width="640">
+### <p align="center"> <img src="https://i.imgur.com/zvj37tO.png" width="850">
 
 ![](https://komarev.com/ghpvc/?username=GR3AT3ST-MAGICIAN&color=ecb689) 
-<sub><sup> ${\textsf{\color{#ffcdcd} Thanks for visiting 　! }}$ </sup></sub>  
-<img src="https://64.media.tumblr.com/09213b4a1a4061bd4ce05dc41b0071df/843b931af0c96714-0a/s100x200/f185aa7947551ece11b8b9a10d8847bc4235e08a.gifv"> <img src="https://64.media.tumblr.com/c8da396b410ac90ac9082b81381ffa3a/843b931af0c96714-7e/s100x200/5476a6ed8596d2bab8438bc6e941a9c661d348ac.gifv"> <img src="https://64.media.tumblr.com/53c358ff5c5cfccbf0fe71315d84db79/843b931af0c96714-39/s100x200/ccf76a5cca97fc5d40f2e7228b8899c48b12f7e1.gifv">
+<sub><sup> ${\textsf{\color{#ffadce} Thanks for visiting 　! }}$ </sup></sub>  
+<img src="https://64.media.tumblr.com/6cddb4f0643e34e7642c0b99fa9c7b22/5fea29cfc78f5d21-94/s100x200/cc3e345a2d26d4648b187766733c46393f5b8ec9.gifv"> <img src="https://64.media.tumblr.com/3bf648546639d3adebf68941499d490e/5fea29cfc78f5d21-fd/s100x200/69b0e88660690c88a4e0f3c59c54f17dc1800e80.gifv"> <img src="https://64.media.tumblr.com/99a4ef142dc2c480528010cde14aa602/5fea29cfc78f5d21-d8/s100x200/c0e3858430bac70dbac987a49d6c0b38b44268c4.gifv">
 
 <p align="right">
-<a href="https://64.media.tumblr.com/061cd32c70765e7b48ed3318ac8d8774/78c75168f9ef587b-77/s250x400/f87a365c8053dcb0e0d2e5cf56f5e716d797570d.gifv"><img src="
-  
-<p align="left">
-  <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=9f61sehexidt1oeltbb7vatvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f0cf56&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
+ ${\textsf{\color{#B6597F}　　"And now I'll make it all disappear... Hehe, just kidding~" ,,　}}$ <br/>  <img src="https://pixelsafari.neocities.org/favicon/object/toy/toy8.gif"> <img
+ 
+
+<p align="left"> 
+  <p align="left"> <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=9f61sehexidt1oeltbb7vatvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f0cf56&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
   </p>
-  <img src="https://i.postimg.cc/brWQmyVn/tumblr-50079512544807c929b6adffea6fd136-adda8af6-1280-ezgif-com-crop.png" width="280" height="280"  width="50%" align="right" style="margin: 20px;">
+  <img src="https://i.imgur.com/xF0vLp5.png" width="280" height="280"  width="50%" align="right" style="margin: 20px;">
   <br>
   <hr>
 </p>
 
 <p align="left">
   <ul>
-    ${\textsf{\color{#ff7b7b}　　First 2 Links 4 info　,　}}$ <br/>
-    ${\textsf{\color{#ff7b7b} Third link is my atabook　.　}}$ <br/>
-    <sub><sup> ${\textsf{\color{#ffcdcd} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
+    ${\textsf{\color{#B6597F}　　First 2 Links 4 info　,　}}$ <br/>
+    ${\textsf{\color{#B6597F} Third link is my atabook　.　}}$ <br/>
+    <sub><sup> ${\textsf{\color{#ffadce} Find the links on the Left under my PFP 　. }}$ </sup></sub>   
   </ul>
 </p>
