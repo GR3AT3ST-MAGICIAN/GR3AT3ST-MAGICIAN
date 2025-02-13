@@ -1,4 +1,4 @@
-### <p align="center"> <img src="https://i.imgur.com/zvj37tO.png" width="850">
+### <p align="center"> <img src="https://i.imgur.com/nFgU01Q.png" width="850">
 
 ![](https://komarev.com/ghpvc/?username=GR3AT3ST-MAGICIAN&color=ecb689) 
 <sub><sup> ${\textsf{\color{#ffadce} Thanks for visiting 　! }}$ </sup></sub>  
@@ -11,7 +11,7 @@
 <p align="left"> 
   <p align="left"> <img src=https://spotify-github-profile.kittinanx.com/api/view?uid=9f61sehexidt1oeltbb7vatvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f0cf56&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)>
   </p>
-  <img src="https://i.imgur.com/xF0vLp5.png" width="280" height="280"  width="50%" align="right" style="margin: 20px;">
+  <img src="https://i.imgur.com/sbKVspR.png" width="280" height="280"  width="50%" align="right" style="margin: 20px;">
   <br>
   <hr>
 </p>
